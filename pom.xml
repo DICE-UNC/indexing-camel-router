@@ -68,6 +68,12 @@
 			<version>2.13.0</version>
 			<type>bundle</type>
 		</dependency>
+		<dependency>
+			<groupId>databook</groupId>
+			<artifactId>index</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<type>bundle</type>
+		</dependency>
 	</dependencies>
 	<repositories>
 		<repository>
